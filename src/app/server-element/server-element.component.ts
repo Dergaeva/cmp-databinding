@@ -12,7 +12,8 @@ import {
   AfterViewInit,
   OnDestroy,
   ViewChild,
-  ContentChild
+  ContentChild,
+  ElementRef
 } from '@angular/core';
 
 @Component({
